@@ -1,0 +1,49 @@
+{
+  "users": [
+    {
+      "name": "Renee Maggio",
+      "id": 1
+    },
+    {
+      "name": "Oscar Volkman",
+      "id": 2
+    },
+    {
+      "name": "Kellie Funk DVM",
+      "id": 3
+    },
+    {
+      "name": "Helen Boehm DDS",
+      "id": 4
+    }
+  ],
+  "albums": [
+    {
+      "userId": 1,
+      "title": "Awesome Plastic Soap",
+      "id": 1
+    },
+    {
+      "userId": 1,
+      "title": "Intelligent Frozen Keyboard",
+      "id": 2
+    }
+  ],
+  "photos": [
+    {
+      "albumId": 1,
+      "url": "https://loremflickr.com/150/150/abstract?lock=7441192704802816",
+      "id": 1
+    },
+    {
+      "albumId": 1,
+      "url": "https://loremflickr.com/150/150/abstract?lock=7738693517312000",
+      "id": 6
+    },
+    {
+      "albumId": 1,
+      "url": "https://loremflickr.com/150/150/abstract?lock=2808430809055232",
+      "id": 7
+    }
+  ]
+}
